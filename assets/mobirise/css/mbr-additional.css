@@ -1350,6 +1350,11 @@ a {
   display: flex;
   padding-top: 20rem;
   padding-bottom: 4rem;
+  background-image: url("../../../assets/images/chatgpt20image202026eb8584202ec9b94205ec9dbc20ec98a4ed9b842005-17-53-1536x1024.png");
+}
+.cid-vaPRJkgLKR .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.5;
 }
 @media (min-width: 768px) {
   .cid-vaPRJkgLKR {
@@ -1391,7 +1396,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-vaPRJkgLKR .mbr-section-title,
 .cid-vaPRJkgLKR .mbr-section-subtitle {
@@ -1401,6 +1405,9 @@ a {
 .cid-vaPRJkgLKR .mbr-text,
 .cid-vaPRJkgLKR .mbr-section-btn {
   text-align: left;
+}
+.cid-vaPRJkgLKR .mbr-section-title {
+  color: #ffc091;
 }
 .cid-vaQZCqvUea {
   padding-top: 5rem;
